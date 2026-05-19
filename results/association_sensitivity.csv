@@ -1,0 +1,7 @@
+Min Support,Frequent Itemsets,Total Rules,"Strong Rules (lift>1, conf>0.15)"
+0.001,750,130,8
+0.003,216,39,0
+0.005,126,19,0
+0.01,69,4,0
+0.02,38,0,0
+0.05,11,0,0
